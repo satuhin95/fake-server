@@ -6,5 +6,6 @@ module.exports = {
   todos,
   videos,
   transactions,
+  tags,
 }
 
